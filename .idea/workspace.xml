@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="06a54e66-328e-4509-b0d7-325b8a1fc95f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab001.py" afterDir="false" />
+    <list default="true" id="06a54e66-328e-4509-b0d7-325b8a1fc95f" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/python learning/lab002_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab004_match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab005_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab006_fun_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab007_argu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab_003 loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +28,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Adarshakumaram&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Adarshakumaram/pythonProject1.git&quot;,
+    &quot;accountId&quot;: &quot;db5e546d-8558-4281-b682-21f339158945&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2piHmdAjrbDdJDbbr7sojH1Givk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +54,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.lab001.executor": "Debug",
+    "Python.lab002_condition.executor": "Debug",
+    "Python.lab004_match.executor": "Run",
+    "Python.lab005_function.executor": "Debug",
+    "Python.lab006_fun_type.executor": "Debug",
+    "Python.lab007_argu.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -57,6 +79,38 @@
       <option name="presentableId" value="Default" />
       <updated>1733242135892</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1733242557631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733242557631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1733242604678</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733242604678</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
