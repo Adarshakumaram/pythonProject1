@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a54e66-328e-4509-b0d7-325b8a1fc95f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/python learning/lab002_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab004_match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab005_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab006_fun_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab007_argu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab_003 loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab008_global_local_var.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab009_decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab010_decor_exm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/task/task001_leap year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/task/task002_triangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab_003 loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/python learning/lab003_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,11 @@
     "Python.lab005_function.executor": "Debug",
     "Python.lab006_fun_type.executor": "Debug",
     "Python.lab007_argu.executor": "Debug",
+    "Python.lab008_global_local_var.executor": "Debug",
+    "Python.lab009_decor.executor": "Debug",
+    "Python.lab010_decor_exm.executor": "Debug",
+    "Python.tak001_leap year.executor": "Debug",
+    "Python.task002_triangle.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -66,7 +71,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
       </set>
     </attachedChunks>
   </component>
@@ -95,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733242604678</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1733466413745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733466413745</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
