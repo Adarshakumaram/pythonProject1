@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a54e66-328e-4509-b0d7-325b8a1fc95f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/python learning/lab011_lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab012_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab013_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab014_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab015_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab016_dict1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab017_freq of chr in string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab018_removing duplicate value fron dic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab019_vowelcount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab020_oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab021_oops1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab022_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab023_oops2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab024_oop_global.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab025_encap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab026_encap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab027_encap_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +74,11 @@
     "Python.lab020_oops.executor": "Debug",
     "Python.lab021_oops1.executor": "Run",
     "Python.lab022_calc.executor": "Debug",
+    "Python.lab023_oops2.executor": "Debug",
+    "Python.lab024_oops3.executor": "Debug",
+    "Python.lab025_encap.executor": "Debug",
+    "Python.lab026_encap.executor": "Debug",
+    "Python.lab027_encap_1.executor": "Debug",
     "Python.set.executor": "Debug",
     "Python.tak001_leap year.executor": "Debug",
     "Python.task002_triangle.executor": "Debug",
@@ -164,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733653834156</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1734020667963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734020667963</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
