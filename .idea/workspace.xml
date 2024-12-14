@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06a54e66-328e-4509-b0d7-325b8a1fc95f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/python learning/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab023_oops2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab024_oop_global.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab025_encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab026_encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab027_encap_1.py" afterDir="false" />
+    <list default="true" id="06a54e66-328e-4509-b0d7-325b8a1fc95f" name="Changes" comment="commit1">
+      <change afterPath="$PROJECT_DIR$/python learning/lab027_encap_bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python learning/lab028_encap_home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab027_encap_1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +76,8 @@
     "Python.lab025_encap.executor": "Debug",
     "Python.lab026_encap.executor": "Debug",
     "Python.lab027_encap_1.executor": "Debug",
+    "Python.lab027_encap_bank.executor": "Debug",
+    "Python.lab028_encap_home.executor": "Debug",
     "Python.set.executor": "Debug",
     "Python.tak001_leap year.executor": "Debug",
     "Python.task002_triangle.executor": "Debug",
@@ -171,12 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1734020667963</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit1">
+      <option name="closed" value="true" />
+      <created>1734140679183</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734140679183</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
