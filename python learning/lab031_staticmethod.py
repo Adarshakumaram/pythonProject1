@@ -13,3 +13,28 @@ print(res)
 print("-----")
 
 print(o.sum(3,5)) #static call
+
+
+
+###doubt
+
+from abc import ABC, abstractmethod
+
+class Bankaccount:
+    def __init__(account_n,ammount):
+        self.acc=account
+        self.amt=ammount
+    
+class ICICI(Bankaccount):
+    def withdrw(self):
+        print("yes")
+        
+    @abstractmethod
+    def loan(self):
+        pass
+    
+    @staticmethod
+    def static_meth(self):
+        print("calling")
+        
+print(a.static_meth())
