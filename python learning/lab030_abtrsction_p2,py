@@ -1,0 +1,63 @@
+# not working
+from abc import ABC, abstractmethod
+
+class Gearbox(ABC):
+    @abstractmethod
+    def set_gear(self):
+        print("add gear")
+    
+class engine:
+    @abstractmethod
+    def start(self):
+        pass
+        
+    
+    @abstractmethod
+    def stop(self):
+        pass
+# above class hidden
+class Car(engine):
+    def drive(self):
+        self.start()
+            
+        self.stop()
+        
+co = Car()
+co.start()
+
+
+
+#next
+
+from abc import ABC, abstractmethod
+
+class Excel_rader(ABC):
+    @abstractmethod()
+    def read_fronexcel(self):
+        pass
+    
+class brow(Excel_rader):
+    @abstractmethod(self)
+    def start_b(self):
+        pass
+    
+    @abstractmethod()
+    def stop_b(self):
+        pass
+    
+class tc(brow):
+    print("starting")
+    
+    def stop_b(self):
+        print("stop")
+        
+    def read_fronexcel(self):
+        print("Read excel")
+        
+    def run_tc(self):
+        self.start_b()
+        self.read_fronexcel()
+        self.stop_b()
+        
+t=tc()
+t.
