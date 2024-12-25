@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a54e66-328e-4509-b0d7-325b8a1fc95f" name="Changes" comment="commit1">
-      <change afterPath="$PROJECT_DIR$/python learning/lab027_encap_bank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab028_encap_home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python learning/lab027_encap_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab032_try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/python learning/lab032_try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab029_abstr.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -48,43 +49,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lab001.executor": "Debug",
-    "Python.lab002_condition.executor": "Debug",
-    "Python.lab004_match.executor": "Run",
-    "Python.lab005_function.executor": "Debug",
-    "Python.lab006_fun_type.executor": "Debug",
-    "Python.lab007_argu.executor": "Debug",
-    "Python.lab008_global_local_var.executor": "Debug",
-    "Python.lab009_decor.executor": "Debug",
-    "Python.lab010_decor_exm.executor": "Debug",
-    "Python.lab011_lambda.executor": "Debug",
-    "Python.lab012_list.executor": "Debug",
-    "Python.lab013_tuple.executor": "Debug",
-    "Python.lab014_set.executor": "Debug",
-    "Python.lab015_dict.executor": "Debug",
-    "Python.lab016_dict1.executor": "Debug",
-    "Python.lab017_freq of chr in string.executor": "Debug",
-    "Python.lab018_removing duplicate value fron dic.executor": "Debug",
-    "Python.lab019_vowelcount.executor": "Debug",
-    "Python.lab020_oops.executor": "Debug",
-    "Python.lab021_oops1.executor": "Run",
-    "Python.lab022_calc.executor": "Debug",
-    "Python.lab023_oops2.executor": "Debug",
-    "Python.lab024_oops3.executor": "Debug",
-    "Python.lab025_encap.executor": "Debug",
-    "Python.lab026_encap.executor": "Debug",
-    "Python.lab027_encap_1.executor": "Debug",
-    "Python.lab027_encap_bank.executor": "Debug",
-    "Python.lab028_encap_home.executor": "Debug",
-    "Python.set.executor": "Debug",
-    "Python.tak001_leap year.executor": "Debug",
-    "Python.task002_triangle.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lab001.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab002_condition.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab004_match.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab005_function.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab006_fun_type.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab007_argu.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab008_global_local_var.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab009_decor.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab010_decor_exm.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab011_lambda.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab012_list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab013_tuple.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab014_set.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab015_dict.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab016_dict1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab017_freq of chr in string.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab018_removing duplicate value fron dic.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab019_vowelcount.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab020_oops.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab021_oops1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab022_calc.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab023_oops2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab024_oops3.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab025_encap.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab026_encap.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab027_encap_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab027_encap_bank.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab028_encap_home.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.set.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.tak001_leap year.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.task002_triangle.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="lab014_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -178,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734140679183</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit1">
+      <option name="closed" value="true" />
+      <created>1735108630095</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735108630095</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
