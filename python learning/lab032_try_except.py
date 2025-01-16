@@ -1,10 +1,12 @@
 try:
     a=12
-    b=0
+    b=4
     c = a / b
     print("Result is ", c)
-except Exception as e:
+except ZeroDivisionError as e:
     print(e)
-    
-print("end of the code")
 
+except ValueError as a:
+    print(a)
+finally:
+    print("end of the code")
