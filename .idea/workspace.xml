@@ -5,21 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a54e66-328e-4509-b0d7-325b8a1fc95f" name="Changes" comment="commit1">
-      <change afterPath="$PROJECT_DIR$/python learning/lab033_os_ module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab034_try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab035_File_IO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab036_custome _exp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab037_file_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab038_csv_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/lab039_csv_pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/modules/MySQLConnector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/modules/browser/start_brow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/modules/browser/stop_brow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/modules/lab040_modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/modules/lab041_mod1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python learning/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning/Pytest/test_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning/Pytest/test_02_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning/Pytest/test_03_pytest_crud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning/Pytest/test_04_post_crud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning/lab003_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python learning/lab032_try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/python learning/lab032_try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/.env" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab002_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab002_condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab003_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/Pytest/fixture_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab004_match.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab004_match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab005_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab005_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab006_fun_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab006_fun_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab007_argu.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab007_argu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab008_global_local_var.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab008_global_local_var.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab009_decor.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab009_decor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab010_decor_exm.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab010_decor_exm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab011_lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab011_lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab012_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab012_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab013_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab013_tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab014_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab014_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab015_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab015_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab016_dict1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab016_dict1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab017_freq of chr in string.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab017_freq of chr in string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab018_removing duplicate value fron dic.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab018_removing duplicate value fron dic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab019_vowelcount.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab019_vowelcount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab020_oops.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab020_oops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab021_oops1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab021_oops1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab022_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab022_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab023_oops2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab023_oops2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab024_oop_global.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab024_oop_global.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab025_encap.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab025_encap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab026_encap.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab026_encap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab027_encap_bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab027_encap_bank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab028_encap_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab028_encap_home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab029_abtrsctionand overridden.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab029_abtrsctionand overridden.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab030_abtrsction_p2,py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab030_abtrsction_p2,py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab031_staticmethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab031_staticmethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab032_try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab032_try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab033_os_ module.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab033_os_ module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab034_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab034_try.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab035_File_IO.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab035_File_IO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab036_custome _exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab036_custome _exp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab037_file_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab037_file_write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab038_csv_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab038_csv_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/lab039_csv_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/lab039_csv_pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/modules/MySQLConnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/modules/MySQLConnector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/modules/browser/start_brow.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/modules/browser/start_brow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/modules/browser/stop_brow.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/modules/browser/stop_brow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/modules/lab040_modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/modules/lab040_modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/modules/lab041_mod1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/modules/lab041_mod1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/task/task001_leap year.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/task/task001_leap year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/task/task002_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/task/task002_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/testdata.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/testdata.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python learning/try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_learning/try_except.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +103,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for python_learning.Pytest.test_lab01.test_method3.executor": "Run",
+    "Python tests.Python tests for test_04_post_crud.test_create_token.executor": "Run",
+    "Python tests.Python tests for test_04_post_crud.test_delete.executor": "Run",
+    "Python tests.Python tests for test_04_post_crud.test_put_request.executor": "Run",
+    "Python tests.Python tests for test_lab01,py.test_method2.executor": "Run",
+    "Python tests.Python tests for test_lab01.test_method3.executor": "Run",
+    "Python tests.Python tests for test_pytest_crud.test_create_booking_negative_tc1.executor": "Run",
+    "Python tests.Python tests for test_pytest_crud.test_create_booking_positive_tc1.executor": "Run",
+    "Python tests.Python tests in test_lab01.py.executor": "Run",
+    "Python tests.test_files.executor": "Run",
     "Python.MySQLConnector.executor": "Run",
     "Python.lab001.executor": "Debug",
     "Python.lab002_condition.executor": "Debug",
@@ -115,32 +165,89 @@
       <recent name="C:\Users\DELL\PycharmProjects\pythonProject1\python learning" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="lab014_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_04_post_crud.test_delete">
+    <configuration name="Python tests for python_learning.Pytest.test_03_pytest_crud.test_create_booking_negative_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning/Pytest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python learning/lab014_set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;python_learning.Pytest.test_03_pytest_crud.test_create_booking_negative_tc1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for python_learning.Pytest.test_03_pytest_crud.test_create_booking_positive_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning/Pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;python_learning.Pytest.test_03_pytest_crud.test_create_booking_positive_tc1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_04_post_crud.test_create_token" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning/Pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_04_post_crud.test_create_token&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_04_post_crud.test_delete" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning/Pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_04_post_crud.test_delete&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_04_post_crud.test_put_request" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning/Pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_04_post_crud.test_put_request&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab014_set" />
+        <item itemvalue="Python tests.Python tests for test_04_post_crud.test_delete" />
+        <item itemvalue="Python tests.Python tests for test_04_post_crud.test_put_request" />
+        <item itemvalue="Python tests.Python tests for test_04_post_crud.test_create_token" />
+        <item itemvalue="Python tests.Python tests for python_learning.Pytest.test_03_pytest_crud.test_create_booking_negative_tc1" />
+        <item itemvalue="Python tests.Python tests for python_learning.Pytest.test_03_pytest_crud.test_create_booking_positive_tc1" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735108816263</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit1">
+      <option name="closed" value="true" />
+      <created>1737049317065</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737049317065</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,6 +349,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_learning/Pytest/test_04_post_crud.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
